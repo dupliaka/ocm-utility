@@ -2,8 +2,8 @@
 
 OCM provisioning automation scripts
 
-- [HyperShift Terraform Setup Script](#HyperShift Terraform Setup Script)
-- [ROSA Cluster Provisioning Script](#ROSA Cluster Provisioning Script)
+- [HyperShift Terraform Setup Script](#HyperShift-Terraform-Setup-Script)
+- [ROSA Cluster Provisioning Script](#ROSA-Cluster-Provisioning-Script)
 
 
 ## HyperShift Terraform Setup Script
